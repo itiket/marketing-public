@@ -1,0 +1,12 @@
+User-agent: Googlebot
+Allow: /
+User-agent: *
+Disallow: /
+User-agent: Googlebot
+Allow: /
+User-agent: Slurp
+Allow: /
+User-Agent: msnbot
+Disallow: 
+
+Sitemap: https://www.itiket.id/sitemap.xml
